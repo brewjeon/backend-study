@@ -23,9 +23,11 @@ backend-study/
 - 분기 종료 시, 모든 참여자가 회고 질문에 따라 의견을 정리
 - 회고 문서는 `retrospectives/`에 저장되며, 향후 방향 수립에 활용
 
-## 🙋‍♂️ Maintainer
-- GitHub: [@Brew](https://github.com/brewjeon)
-- Contact: paulroant [at] gmail.com
+## 🙋‍♀️🙋‍♂️ Study Members
+- [@Brew](https://github.com/brewjeon)
+- [@GU](https://github.com/LogInDev)
+- [@Haribo](https://github.com/kiki-wit)
+- [@thing-i](-)
 
 ## 📌 기타
 - 정리자는 `Brew`, 참여자는 3인 이상의 개발자로 구성
